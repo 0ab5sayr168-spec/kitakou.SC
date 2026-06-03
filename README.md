@@ -1,1 +1,1 @@
-# kitakou
+# kitakou.SC
